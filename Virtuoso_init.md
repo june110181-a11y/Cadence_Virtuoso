@@ -5,7 +5,7 @@
 
 ### 1-1. MobaXterm
 
-<img src="Layout/img/MobaXterm_init_img.png" width="50%">
+<img src="img/MobaXterm_init_img.png" width="50%">
 
 
 
